@@ -15,7 +15,7 @@ FFMPEG_PATH = r"C:\Users\Yann Loic\Documents\ffmpeg-2026-06-15-git-44d082edc8-es
 intents = discord.Intents.all()
 bot = commands.Bot(command_prefix="!", intents=intents)
 
-KK
+
 
 queues = {}
 
