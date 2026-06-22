@@ -21,7 +21,7 @@ queues = {}
 
 ydl_opts = {
     "format": "bestaudio/best",
-    "noplaylist": True
+    "noplaylist": False
 }
 
 
